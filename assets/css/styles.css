@@ -1600,6 +1600,7 @@
     line-height: 22px;
     border: 2px solid;
     letter-spacing: .48px;
+    background: rgb(231, 206, 177);
 }
 
 .moto-widget-button .moto-widget-button-link.moto-size-small {
@@ -1650,9 +1651,9 @@
 }
 
 .moto-widget-button.moto-preset-5 .moto-widget-button-link {
-    padding: 0;
+    padding: 10px 15px;
     border: none;
-    border-radius: 0;
+    border-radius: 5px;
     min-width: 0;
     min-height: auto;
 }
@@ -2720,7 +2721,7 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-style: normal;
-    color: #e7ceb1;
+    color: #fff;
 }
 
 .moto-widget-button.moto-preset-5 .moto-widget-button-link:hover {
